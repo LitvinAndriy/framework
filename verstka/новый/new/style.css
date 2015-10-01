@@ -1,0 +1,172 @@
+
+
+body {
+	background-image: url("images/bg.jpg");
+    background-repeat: repeat;
+    margin: 0;
+    padding: 0;
+	font-family: Georgia,serif;
+	font-size: 12pt;
+    line-height: 1.75em;
+}
+
+.all{
+	background-image: url("images/shadow.png");
+    background-repeat: repeat-x;
+    height: 400px;
+}
+
+.outer{
+ margin: 0 auto;
+    padding: 30px;
+    width: 1180px;
+}
+
+.top_part_site{
+height: 120px;
+    padding: 40px;
+    width: 1100px;
+}
+
+.logo_giv{
+float: left;
+    height: 120px;
+    width: 300px;
+	text-align: center;
+}
+
+.logo_giv a{
+ color: white;
+
+    font-weight: 600;
+    height: 120px;
+    text-decoration: none;
+    width: 300px;
+;
+}
+
+
+.logo_giv h1{
+font-family: Lobster,cursive;
+     text-shadow: 0 2px 1px #32251B;
+	 font-size: 3.5em;
+}
+
+.menu_top{
+float: left;
+    height: 120px;
+    width: 800px;
+	
+}
+
+.menu_top ul{
+float: right;
+    height: 20px;
+    padding-top: 57px;
+    width: 601px;
+}
+
+.menu_top ul li{
+float: left;
+    list-style: none outside none;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.menu_top ul li a{
+ color: white;
+    font-family: small-caption;
+    font-size: 27px;
+    text-decoration: none;
+}
+
+.center_part_site{
+	height: 700px;
+    width: 1180px;
+	color: #5e5e5e;
+}
+.center_part_site a{
+color:#242424;
+}
+.left_center{
+	background: none repeat scroll 0 0 #32251B;
+    color: #E1D2C7;
+    float: left;
+    padding: 40px;
+    width: 240px;
+}
+#sidebar {
+    color: #e1d2c7;
+}
+#sidebar h3 {
+color: white;
+}
+#sidebar ul {
+    list-style: none outside none;
+	margin-bottom: 1.5em;
+	padding:0;}
+#sidebar ul li {
+    border-top: 1px dotted #70665f;
+    padding: 15px 0;
+}
+#sidebar a {
+    color: #e2e0df;
+}
+.center_content{
+	background: none repeat scroll 0 0 #fff;
+    margin: 0 0 0 355px;
+    padding: 40px;
+    width: 745px;
+}
+#box1 {
+    margin: 0 0 35px;
+    overflow: hidden;
+    width: 745px;
+}
+.left {
+	float: left;
+	margin: 5px 20px 20px 0;
+}
+#box2 {
+	float: left;
+    overflow: hidden;
+    width: 355px;
+} 
+.center_content h3 {
+	color: #242424;
+	
+}
+h3 {
+	font-family: Arvo,serif;
+	margin-bottom: 1em;
+}
+.center_content ul {
+	list-style: none outside none;
+}
+ul {
+	margin-bottom: 1.5em;
+}
+
+#main ul.imageList li {
+    padding: 15px 0;
+}
+.center_content ul li {
+    border-top: 1px dotted #b3b3b3;
+    padding: 15px 0;
+}
+.imageList li {
+    clear: both;
+}
+#box3 {
+    margin: 0 0 0 390px;
+    overflow: hidden;
+    width: 355px;
+}
+p {
+    margin-bottom: 1.5em;
+}
+}
+#box2 h3 {
+    letter-spacing: -1px;
+    text-transform: lowercase;
+}
